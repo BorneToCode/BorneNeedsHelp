@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BorneNeedsHelp
-- 👀 I’m interested in: Python Code, Math, And, Making Libraries!
+- 👀 I’m interested in: Python Code, Math, And, Making Libraries, and AI!
 - 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate with: Anyone!
 - 📫 How to reach me: I'll add this later...
